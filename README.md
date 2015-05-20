@@ -1,5 +1,6 @@
 # JavaScript-Basico
 	Material do Curso de JavaScript
+	A relação abaixo eh dos dir e 
 
 	# Branch aula01
 	Dir 
@@ -37,3 +38,6 @@
 			style.css
 		
 		
+#Anselmo Pfeifer
+	Campo Grande MS
+		2015
